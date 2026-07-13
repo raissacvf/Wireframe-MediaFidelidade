@@ -50,18 +50,6 @@ O objetivo foi criar um fluxo simples, reduzindo a quantidade de ações necess�
 
 ---
 
-## 🧠 Psicologia do Design
-
-Durante o desenvolvimento foram aplicados conceitos como:
-
-- Lei da Proximidade;
-- Lei da Similaridade;
-- Hierarquia Visual;
-- Feedback Visual;
-- Design Minimalista.
-
----
-
 ## 👩‍💻 Autora
 
 **Raíssa de Castro**
