@@ -62,12 +62,6 @@ Durante o desenvolvimento foram aplicados conceitos como:
 
 ---
 
-## 📷 Wireframe
-
-![Wireframe](images/wireframe.png)
-
----
-
 ## 👩‍💻 Autora
 
 **Raíssa de Castro**
